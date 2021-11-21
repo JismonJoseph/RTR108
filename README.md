@@ -13,24 +13,42 @@ All the commands explained down will have a screenshot of excecution in the fold
 
 **pwd** : Shows the current working directory.
 
-**last** :
+**last** : Shows the last working directory used.
 
-**ls** :
-**ls -l** :
-**ls -a** :
-**ls -la** :
-**cd** :
-**cd .** :
-**cd ..** :
-**cd /** :
-**cd ~** :
-**mkdir** :
-**rmdir** :
-**rm** :
-**cp** :
-**mv** :
-**cat** :
-**chmod** :
-**echo** :
-**ssh** :
-**scp** :
+**ls** : list all the files in the directory
+
+**ls -l** : List all the files in the directory with their permission size and date of modifications.
+
+**ls -a** : Shows the hidden files too.
+
+**ls -la** : list all files details including hidden files
+
+**cd** : change directory
+
+**cd .** : takes you back one directory
+
+**cd ..** : takes you back to the main directory
+
+**cd /** : changes directory to the directory specified after the /
+
+**cd ~** : Returns to the user account home directory
+
+**mkdir** : makes an new folder with the name specified after the command
+
+**rmdir** : removes an existing directory by the name specified after the command
+
+**rm** : deleates the file specifed after the command
+
+**cp** : copies the file to a directory. 
+
+**mv** : moves a file form one directory to another directory
+
+**cat** : Shows the content of the file (text file)
+
+**chmod** : changes the file permision of a file, usage shown as screenshot
+
+**echo** : prints the charechters on the command line specified after the command
+
+**ssh** : connect to remote server, requires the username and password as an argument.
+
+**scp** : allows copying between two servers in a very secured way.
