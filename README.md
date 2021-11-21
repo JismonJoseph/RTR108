@@ -52,3 +52,14 @@ All the commands explained down will have a screenshot of excecution in the fold
 **ssh** : connect to remote server, requires the username and password as an argument.
 
 **scp** : allows copying between two servers in a very secured way.
+
+### creating a bash script:
+Bash script usally contains a series of commands that we usally require to type in, cerating such a script will allow us to execute a cetain step by only executing this script file.
+
+example code (to be typed in and saved with the .sh file extension)
+
+#!/bin/bash
+
+echo Hello World!
+
+The following when executed will print hello world on the command line everytime you run this script. (look at the screensot in the LINUX folder)
