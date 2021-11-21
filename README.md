@@ -63,3 +63,8 @@ example code (to be typed in and saved with the .sh file extension)
 echo Hello World!
 
 The following when executed will print hello world on the command line everytime you run this script. (look at the screensot in the LINUX folder)
+
+## Python
+### Details:
+Python is a high level programming language, its designed towards being easier and powerfull. its used and applied in ML and AI task or task involving larde datasets.
+We will do a series of python examples as given in PY4E website. all solution screenshot are in the folder PYTHON
