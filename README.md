@@ -72,3 +72,7 @@ We will do a series of python examples as given in PY4E website. all solution sc
 ## LATEX
 ### Details:
 LATEX is professional tool used to create scientific documnets and reports. Latex related documents are in the folder LATEX.
+
+## WEBSITE
+### Details:
+A simple game oriented website is made using Javascipt, CSS and HTML. The idea is to guess the correct hex code of the color shown. The game includes logics of difficulty level and saving game data.
