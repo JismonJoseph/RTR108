@@ -68,3 +68,7 @@ The following when executed will print hello world on the command line everytime
 ### Details:
 Python is a high level programming language, its designed towards being easier and powerfull. its used and applied in ML and AI task or task involving larde datasets.
 We will do a series of python examples as given in PY4E website. all solution screenshot are in the folder PYTHON
+
+## LATEX
+### Details:
+LATEX is professional tool used to create scientific documnets and reports. Latex related documents are in the folder LATEX.
