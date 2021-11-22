@@ -69,6 +69,8 @@ The following when executed will print hello world on the command line everytime
 Python is a high level programming language, its designed towards being easier and powerfull. its used and applied in ML and AI task or task involving larde datasets.
 We will do a series of python examples as given in PY4E website. all solution screenshot are in the folder PYTHON. The file matplot.py show my knowledge and application of the numpy and matplotlib library for calculation and graphical plots in python.
 
+A simple game is designed by the name game.py, in which the users has to input the color of thee given label as fast as possible to win the game with high scores. this game was made using a tutorial.
+
 ## LATEX
 ### Details:
 LATEX is professional tool used to create scientific documnets and reports. Latex related documents are in the folder LATEX.
