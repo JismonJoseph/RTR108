@@ -11,7 +11,7 @@ s = offset + np.sin(2 * np.pi * t)
 fig, ax = plt.subplots()
 ax.plot(t, s)
 
-ax.set(xlabel='time (s)', ylabel='voltage (mV)',
+ax.set(xlabel='time (s)', ylabel='voltage (V)',
        title='Plot of a sin wave with a offset.')
 ax.grid()
 
